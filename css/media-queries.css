@@ -1,0 +1,58 @@
+/* Media Queries */
+/* 1201 -  */
+@media screen and (max-width: 1400px) {
+	
+}
+
+/* 1025 - 1200 */
+@media screen and (max-width: 1200px) {
+}
+
+/* 992-1024px */
+@media screen and (max-width: 1024px) {
+
+}
+
+/* 768-991px */
+@media screen and (max-width: 991px) {
+
+}
+
+/* 576-767px */
+@media screen and (max-width: 767px) {
+
+}
+
+/* 461-575 */
+@media screen and (max-width: 575px) {
+	
+}
+
+/* 320-460 */
+@media screen and (max-width: 460px) {
+
+}
+
+
+/* Phone in responsive browser */
+@media screen and (width: 425px) {
+	
+}
+
+@media screen and (width: 414px) {
+	
+}
+
+@media screen and (width: 411px) {
+	
+}
+
+@media screen and (width: 375px) {
+	
+}
+
+/* iPhone 5 */
+@media screen and (device-aspect-ratio: 40/71) {
+	
+}
+
